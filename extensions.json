@@ -1,4 +1,14 @@
-"editor.fontFamily": "'Fira Code'",
+{
+  "workbench.colorTheme": "JellyFish",
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": true,
+    "css": true
+  },
+
+  "editor.fontFamily": "'Fira Code'",
   "editor.fontLigatures": true,
   "EDITOR.FONTLIGATURES": true,
   "editor.inlineSuggest.enabled": true,
@@ -10,3 +20,6 @@
   "vscode-pets.petType": "mod",
   "vscode-pets.petColor": "yellow",
   "json.schemas": [
+  
+  ]
+}
