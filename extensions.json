@@ -1,0 +1,12 @@
+"editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "EDITOR.FONTLIGATURES": true,
+  "editor.inlineSuggest.enabled": true,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "material-icon-theme",
+  "vscode-pets.theme": "forest",
+  "vscode-pets.petType": "mod",
+  "vscode-pets.petColor": "yellow",
+  "json.schemas": [
